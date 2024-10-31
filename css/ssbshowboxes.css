@@ -1,0 +1,58 @@
+#allservicesboard {
+width: 900px; /*dynamic*/
+/*border: 1px solid #000;*/
+margin: auto;
+}
+
+#innerparentboxe {
+width: 284px; /*dynamic*/
+float: left;
+/*margin-left: 15px; dynamic*/
+/*border: 1px solid #000;*/
+margin-bottom: 10px;/*dynamic*/
+padding: 8px; /*dynamic*/
+}
+
+.ssb_pagetitle {
+
+}
+
+#innerparentboxe h4 {
+font-size: 16px;
+margin-top: 0 !important;
+margin-bottom: 10px;
+color: #000; /*dynamic*/
+}
+
+#innerparentboxe img {
+border: none !important; 
+border-radius: none !important;
+box-shadow: none !important;
+margin-top: 5px; /*dynamic*/
+width: 65px;
+height: 65px;
+}
+
+#innerparentboxe a {
+font-weight: normal;
+font-size: 14px;  /*dynamic*/
+}
+
+.ssb_img {
+float: left;
+}
+
+.page_content_excerpt {
+font-size: 14px; /*dynamic*/
+line-height: 1.5;
+text-align: justify;
+height: 145px; /*dynamic*/
+}
+
+.ssb_buttondiv {
+
+}
+
+.ssb_button {
+
+}
